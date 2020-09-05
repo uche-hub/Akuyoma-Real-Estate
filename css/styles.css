@@ -87,6 +87,10 @@ button.rounded{
     cursor: pointer;
 }
 
+img .logo-header{
+    background-color: #fff;
+}
+
 p.large-paragraph{
     font-size: 1.25rem;
     font-weight: 300;
@@ -132,7 +136,7 @@ header{
 .hamburger-menu .strip{
     display: block;
     height: 1px;
-    background-color: #fff;
+    background-color: #000;
     margin: 4px 0;
 }
 
